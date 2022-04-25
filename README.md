@@ -18,3 +18,4 @@ A few of my Learning Outcomes were:
 
 -Publishing report to power bi service.
 
+live interactive link : shorturl.at/hFHO2
